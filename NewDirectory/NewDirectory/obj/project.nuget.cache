@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2K4PnX5Ckigf5Ai/Ym7XJail/KjpICqf92hLiIxwdhKSMC9+Bvxv2AeS/5cNGckOT7lj3dNuIJsQg9oioga1hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sevgi\\source\\repos\\NewDirectory\\NewDirectory\\NewDirectory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sevgi\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
